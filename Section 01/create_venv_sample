@@ -1,0 +1,29 @@
+
+#Command to create virtualenv
+mkvirtualenv -p /usr/bin/python2.7 caffe2_test
+
+#Pre-requisites for caffe2
+pip install opencv-python
+pip install numpy
+pip install scipy
+pip install scikit-image
+pip install \
+      flask \
+      future \
+      graphviz \
+      hypothesis \
+      jupyter \
+      matplotlib \
+      pydot python-nvd3 \
+      pyyaml \
+      requests \
+      setuptools \
+      six \
+      tornado \
+      h5py
+
+#Command to activate env
+workon caffe2_test
+
+#Command to deactivate env
+deactivate

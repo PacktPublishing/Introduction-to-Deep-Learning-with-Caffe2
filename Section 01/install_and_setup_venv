@@ -1,0 +1,12 @@
+#install virtualenv and its wrapper
+$sudo pip install virtualenv virtualenvwrapper
+
+#Copy the following to .bashrc, .profile, etc
+export VIRTUALENVWRAPPER_PYTHON=/usr/bin/python3
+export WORKON_HOME=$HOME/.virtualenvs
+source /usr/local/bin/virtualenvwrapper.sh
+
+#Run the command
+$source ~/.bashrc
+
+
