@@ -23,9 +23,6 @@ By the end of the course, you’ll gain an understanding of every element of Caf
 ### Assumed Knowledge
 To fully benefit from the coverage included in this course, you will need:<br/>
 If you’re a data scientist who wants to learn how to effectively apply deep learning using Caffe2 to build real-world applications, this is the course you need. This course is perfect for industry and technology experts, who have to develop production-grade services and modules and bring automation to real-world scenarios. Familiarity with the Caffe2 library is not required.
-### Technical Requirements
-This course has the following software requirements:<br/>
- Caffe2
 
 ## Related Products
 * [Applied Deep Learning with TensorFlow and Google Cloud AI [Video]](https://www.packtpub.com/big-data-and-business-intelligence/applied-deep-learning-tensorflow-and-google-cloud-ai-video?utm_source=github&utm_medium=repository&utm_campaign=9781788621601)
